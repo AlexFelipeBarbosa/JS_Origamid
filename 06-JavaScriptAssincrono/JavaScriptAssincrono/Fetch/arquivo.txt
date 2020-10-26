@@ -1,0 +1,1 @@
+Esse é um arquivo texto utilizado para demonstrar o Fetch.
