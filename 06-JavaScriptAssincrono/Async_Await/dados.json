@@ -1,0 +1,8 @@
+{
+  "aula": "JavaScript", 
+  "professor": "Alex",
+  "periodo": "noturno",
+  "quantidadeAlunos": 10,
+  "cargaHoraria": 20
+}
+
