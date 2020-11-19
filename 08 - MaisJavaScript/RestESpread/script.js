@@ -67,27 +67,7 @@ console.log(comidas);
 /* Spread Argument
 O Spread pode ser muito útil para funções que recebem uma lista de argumentos ao invés de uma array.
 */
-const numeroMaximo = Math.max(
-  4,
-  5,
-  66,
-  98,
-  11,
-  35,
-  3,
-  798,
-  5,
-  4,
-  3,
-  2,
-  1,
-  5,
-  6,
-  7,
-  55,
-  01,
-  165
-);
+const numeroMaximo = Math.max(4, 5, 66, 98, 11, 35, 3, 798, 6, 7, 55, 01, 165);
 
 console.log(numeroMaximo); // 798
 
